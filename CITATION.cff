@@ -5,17 +5,17 @@ authors:
   given-names: "Jordan Douglas"
   orcid: "https://orcid.org/0000-0002-5102-1763"
 title: "Aerospace Vehicle Control and Perception Systems"
-version: 1.0.0
-doi: 10.0000/zenodo.0000
+version: 0.0.1
+doi: 10.5281/zenodo.10836294
 date-released: 2024-03-18
 url: "https://github.com/drjdlarson/aerospace-vehicle-control-and-perception-systems"
 preferred-citation:
   type: book
   authors:
   - family-names: "Larson"
-    given-names: "Jordan"
+    given-names: "Jordan Douglas"
     orcid: "https://orcid.org/0000-0002-5102-1763"
-  doi: "10.0000/zenodo.0000"
+  doi: "10.5281/zenodo.10836294"
   title: "Aerospace Vehicle Control and Perception Systems"
   volume: 1
   year: 2024
