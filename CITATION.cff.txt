@@ -2,11 +2,11 @@ cff-version: 1.2.0
 message: "If you use this PDF, please cite it as below."
 authors:
 - family-names: "Larson"
-  given-names: "Jordan"
+  given-names: "Jordan Douglas"
   orcid: "https://orcid.org/0000-0002-5102-1763"
 title: "Aerospace Vehicle Control and Perception Systems"
 version: 1.0.0
-doi: 10.0000/zenodo.
+doi: 10.0000/zenodo.0000
 date-released: 2024-03-18
 url: "https://github.com/drjdlarson/aerospace-vehicle-control-and-perception-systems"
 preferred-citation:
@@ -15,7 +15,7 @@ preferred-citation:
   - family-names: "Larson"
     given-names: "Jordan"
     orcid: "https://orcid.org/0000-0002-5102-1763"
-  doi: "10.0000/00000"
-  title: "My awesome research software"
+  doi: "10.0000/zenodo.0000"
+  title: "Aerospace Vehicle Control and Perception Systems"
   volume: 1
   year: 2024
